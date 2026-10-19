@@ -1,0 +1,6 @@
+{
+  "name": "Sự thức giấc của Thàh - Ngày 20/10",
+  "description": "Trang web tương tác chúc mừng Ngày Phụ nữ Việt Nam 20/10 cùng robot Tiny, hỗ trợ tùy chỉnh tên người nhận, người gửi, lời chúc và âm nhạc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
